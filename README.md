@@ -9,3 +9,5 @@
 Данная версия - предварительный запрос комментариев, будем благодарны за любую обратную связь.
 
 [Канал проекта](https://t.me/cas_metrics)
+
+[Зеркало](https://github.com/Security-Experts-Community/casm)
